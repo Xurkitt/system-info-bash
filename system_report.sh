@@ -1,5 +1,5 @@
 #!/bin/bash # System Information Report Script # GitHub Repository:
-https://github.com/YOUR-USERNAME/YOUR-REPO
+https://github.com/Xurkitt/system-info-bash
 
 echo “===== SYSTEM REPORT =====”
 
